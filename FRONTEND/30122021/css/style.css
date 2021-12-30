@@ -1,0 +1,94 @@
+body {
+    margin: 0;
+}
+
+.nav-bar {
+    width: 100%;
+    height: 50px;
+    background: #222222;
+    text-align: center;
+}
+
+.logo {
+    width: 100px;
+    float: left;
+    color: whitesmoke;
+    line-height: 50px;
+}
+
+.home {
+    width: 100px;
+    float: left;
+    color: whitesmoke;
+    line-height: 50px;
+}
+
+.about {
+    width: 100px;
+    float: left;
+    color: whitesmoke;
+    line-height: 50px;
+}
+
+.projects {
+    width: 100px;
+    float: left;
+    color: whitesmoke;
+    line-height: 50px;
+}
+
+.contact {
+    width: 100px;
+    float: left;
+    color: whitesmoke;
+    line-height: 50px;
+}
+
+.login {
+    width: 100px;
+    float: right;
+    color: whitesmoke;
+    line-height: 50px;
+}
+
+.main {
+    width: 100%;
+    height: 400px;
+    background: #F1F1F1;
+}
+.main-left {
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+
+.main-mid {
+    background: #FFFFFF;
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+
+.main-right {
+    float: left;
+    width: 25%;
+    
+}
+
+.ads {
+    width: 70%;
+    height: 30%;
+    border: 1px solid black;
+    text-align: center;
+    margin: 15%;
+}
+
+.footer {
+    clear: both;
+    width: 100%;
+    height: 50px;
+    background: #222222;
+    text-align: center;
+    color: white;
+    line-height: 50px;
+}
