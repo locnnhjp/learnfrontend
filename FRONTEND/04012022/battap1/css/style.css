@@ -1,0 +1,25 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 200px 400px 400px;
+    background-color: green;
+    padding: 10px;
+    grid-gap: 10px;
+}
+.grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    font-size: 40px;
+    text-align: center;
+}
+
+.header {
+    grid-column: 1/4;
+}
+
+.menu {
+    grid-row: 2/4;
+}
+
+.footer {
+    grid-column: 2/4;
+}
